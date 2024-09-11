@@ -1,0 +1,28 @@
+# Logs
+Photography-Landing-Page/logs
+Photography-Landing-Page/*.log
+Photography-Landing-Page/npm-debug.log*
+Photography-Landing-Page/yarn-debug.log*
+Photography-Landing-Page/yarn-error.log*
+Photography-Landing-Page/pnpm-debug.log*
+Photography-Landing-Page/lerna-debug.log*
+
+Photography-Landing-Page/node_modules
+Photography-Backend/node_modules
+Photography-Landing-Page/dist
+Photography-Landing-Page/dist-ssr
+Photography-Landing-Page/*.local
+
+# Editor directories and files
+Photography-Backend/.vscode/*
+Photography-Landing-Page/.vscode/*
+Photography-Landing-Page/!.vscode/extensions.json
+Photography-Backend/!.vscode/extensions.json
+Photography-Backend/.idea
+Photography-Landing-Page/.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
